@@ -21,7 +21,7 @@ I am the Founder and CEO of <a style="color:#d30c5c" href="https://goodshapecode
 - 2018 - [Computer Graphics 2D and 3D](http://www.sal.ipg.pt/user/1012444/CG1819/CG1819.html) - using: Java
 - 2018 - [Robot Firefighter](https://www.youtube.com/watch?v=JTuE9udsfE8) - using: Java
 - 2017 - [Chat Group Using Files](#) - using: PHP
-- ~~2017 - [Portalget](https://github.com/agostinhopina95/Portalget_inc) - using: PHP~~~
+- ~~2017 - [Portalget](https://github.com/agostinhopina95/Portalget_inc) - using: PHP~~
 
 ## 💻 Languages and Tools:
 
