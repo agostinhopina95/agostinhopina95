@@ -1,6 +1,6 @@
 # Hi [ <img height="22px" src="./wavingHand.gif" /> ]. I'm <a href="https://agostinhopinaramos.com/?github=1" target="_blank" >Agostinho Ramos</a>! 😄
 
-I am the Founder and CEO of <a style="color:#d30c5c" href="https://goodshapecode.com/" >Good Shape Code</a> created in 2019, a site for professional and enthusiast programmers. I've been working as Full-stack Developer 🚀 since 2017.
+I am the Founder and CEO of <a href="https://goodshapecode.com/" >Good Shape Code</a> created in 2019, a site for professional and enthusiast programmers. I've been working as Full-stack Developer 🚀 since 2017.
 
 - 🔭 I’m currently working on Automated Testing In Web
 - 🌱 I’m currently learning about Gatsby
