@@ -18,7 +18,7 @@ I am the Founder and CEO of <a style="color:#d30c5c" href="https://goodshapecode
 ## 📌 View my extra work:
 
 - 2019 - [Good Shape Code](https://goodshapecode.com/) - using: PHP
-- 2019 - [Artificial Intelligence - Reactive Agente]() - using: Python
+- 2019 - [Artificial Intelligence - Reactive Agente]() - using: JavaScript
 - 2019 - [Perfumaria & Estilo (e-commerce)]() - with: WordPress
 - 2018 - [Computer Graphics 2D and 3D](http://www.sal.ipg.pt/user/1012444/CG1819/CG1819.html) - using: Java
 - 2018 - [Robot Firefighter](https://www.youtube.com/watch?v=JTuE9udsfE8) - using: Java
